@@ -7,7 +7,7 @@
 ## 📫 Contact Me:
 - **Phone:** +91-7013598950  
 - **Email:** [2200032666cseh@gmail.com](mailto:2200032666cseh@gmail.com)  
-- **LinkedIn:** [@sai-vivek-batchala-06595628a](#)  
+- **LinkedIn:** [[@sai-vivek-batchala-06595628a](https://www.linkedin.com/in/sai-vivek-batchala-06595628a/)](#)  
 
 ## 🎓 Education
 | Degree           | Institute                 | Board/University | CGPA/Percentage | Year       |

@@ -1,46 +1,48 @@
 # 👋 Hi, I'm Batchala Sai Vivek
 
-## 👀 About Me
-🌟 Learning Full Stack Web Development, passionate about building impactful web applications.  
-🌱 Currently mastering ReactJS, NodeJS, Spring, ExpressJS, and Spring Boot.  
+## 👨‍💻 About Me
+I am a passionate Full Stack Web Developer dedicated to building impactful and scalable web applications. Currently, I am honing my skills in modern frameworks and technologies to become industry-ready.
 
-## 📫 Contact Me:
-- **Phone:** +91-7013598950  
-- **Email:** [2200032666cseh@gmail.com](mailto:2200032666cseh@gmail.com)  
-- **LinkedIn:** [[@sai-vivek-batchala-06595628a](https://www.linkedin.com/in/sai-vivek-batchala-06595628a/)](#)  
+## 🚀 Tech Stack
+- **Languages:** Java, JavaScript, C
+- **Frontend:** HTML, CSS, ReactJS
+- **Backend:** Spring, Spring Boot, Hibernate, ExpressJS, NodeJS
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Tools & Platforms:** Git, VS Code, Eclipse, Postman
 
 ## 🎓 Education
-| Degree           | Institute                 | Board/University | CGPA/Percentage | Year       |
+| Degree           | Institution                | University/Board | CGPA/Percentage | Year       |
 |------------------|---------------------------|------------------|-----------------|------------|
-| B.Tech (CSEH)     | KL University, Guntur      | KLEF             | 9.13 (Till 4th Sem) | 2022-2026  |
+| B.Tech (CSEH)    | KL University, Guntur      | KLEF             | 9.13 (Till 4th Sem) | 2022-2026  |
 | Senior Secondary | Narayana Junior College     | BIEAP            | 89.6%           | 2020-2022  |
-| Class X          | Narayana India High School   | SSC              | 96%             | 2020       |
+| Class X          | Narayana India High School  | SSC              | 96%             | 2020       |
 
-## 🛠 Technical Skills
-- **Programming Languages:** Java, JavaScript, C  
-- **Frontend:** HTML, CSS, ReactJS (basic)  
-- **Backend:** Spring, Spring Boot, Hibernate  
-- **Database:** MongoDB, MySQL, PostgreSQL  
-- **Developer Tools:** VS Code, Git, Eclipse, Postman  
+## 💼 Projects
+### 🔹 Online Car Rental System
+- **Duration:** July 2023 - Dec 2023  
+- Developed a MERN stack-based car rental system.
+- Integrated secure payment gateways.
+- Designed API documentation and system architecture.
 
-## 💻 Projects
-### 🎯 Online Car Rental System  
-**Duration:** July 2023 - Dec 2023  
-- Built using the MERN stack.  
-- Integrated secure payment gateways.  
-- Documented APIs and system architecture.
-
-### 🎯 Online Job Portal System  
-**Duration:** Dec 2023 - Apr 2024  
-- Developed using Python Full Stack.  
-- Integrated resume scoring and sorting mechanisms.  
-- Documented APIs and system architecture for seamless collaboration.
+### 🔹 Online Job Portal System
+- **Duration:** Dec 2023 - Apr 2024  
+- Built using Python Full Stack technologies.
+- Implemented resume scoring and sorting mechanisms.
+- Created comprehensive API documentation for smooth collaboration.
 
 ## 🎖 Certifications
-- **AWS Certified Cloud Practitioner(cloud)**  
-- **Generative AI (Oracle)**  
-- **Salesforce AI Associate (Salesforce)**
-- **Red Hat Certified Enterprise**  
+- **AWS Certified Cloud Practitioner**
+- **Generative AI (Oracle)**
+- **Salesforce AI Associate**
+- **Red Hat Certified Enterprise Developer**
 
 ## 🏆 Achievements
-- **9.13 CGPA** at KL University (Till 4th Sem)  
+- **Maintained a CGPA of 9.13** at KL University (Till 4th Sem)
+
+## 📞 Contact Me
+- 📧 [2200032666cseh@gmail.com](mailto:2200032666cseh@gmail.com)
+- 📱 +91-7013598950
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-vivek-batchala-06595628a/)
+
+Let's connect and build something amazing! 🚀
+

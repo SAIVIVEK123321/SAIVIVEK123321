@@ -37,7 +37,7 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 - **Red Hat Certified Enterprise Developer**
 
 ## 🏆 Achievements
-- **Maintained a CGPA of 9.13** at KL University (Till 4th Sem)
+- **Maintained a CGPA of 9.21** at KL University (Till 6th Sem)
 
 ## 📞 Contact Me
 - 📧 [2200032666cseh@gmail.com](mailto:2200032666cseh@gmail.com)

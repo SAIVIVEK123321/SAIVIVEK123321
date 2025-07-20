@@ -11,7 +11,7 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 - **Tools & Platforms:** Git, VS Code, Eclipse, Postman
 
 ## 🎓 Education
-| Degree           | Institution                | University/Board | CGPA/Percentage | Year       |
+| Degree           | Institution                | University/Board | CGPA/Percentage | Year        |
 |------------------|---------------------------|------------------|-----------------|------------|
 | B.Tech (CSEH)    | KL University, Guntur      | KLEF             | 9.2 (Till 5th Sem) | 2022-2026  |
 | Senior Secondary | Narayana Junior College     | BIEAP            | 89.6%           | 2020-2022  |

